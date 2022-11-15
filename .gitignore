@@ -1,5 +1,7 @@
 *model*/
 *env/
+cached/
+runs/
 
 comments.txt
 dataset*.txt
